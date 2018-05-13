@@ -25,13 +25,7 @@ function ternaryCheckCity(cityName){
   
   let cityCheck;
   
-  if(city = "NYC")
-    cityCheck = "Ok, sounds good."
-    
-    else
-      cityCheck = "No go."
-    
-  return cityCheck;
+  return cityCheck === "NYC" ? "Ok, sounds good." : "No go.";
 
 }
 
