@@ -5,6 +5,6 @@ function scuberGreetingForFeet(someValue){
   let ride = someValue;
   
   if(ride < 400)
-    "This one is on me!"
+   return "This one is on me!"
   
 }
