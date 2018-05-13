@@ -25,7 +25,7 @@ function ternaryCheckCity(cityName){
   
   let cityCheck;
   
-  if(city = NYC)
+  if(city = "NYC")
     cityCheck = "Ok, sounds good."
     
     else
