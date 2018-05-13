@@ -19,3 +19,19 @@ function scuberGreetingForFeet(someValue){
   
 }
 
+function ternaryCheckCity(cityName){
+  
+  let city = cityName;
+  
+  let cityCheck;
+  
+  if(city = NYC)
+    cityCheck = "Ok, sounds good."
+    
+    else
+      cityCheck = "No go."
+      
+  return cityCheck;
+
+}
+
