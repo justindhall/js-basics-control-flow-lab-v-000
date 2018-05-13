@@ -2,6 +2,10 @@
 
 function scuberGreetingForFeet(someValue){
   
+  let ride = someValue;
+  
+  if(ride < 400)
+    ""
   
   
 }
